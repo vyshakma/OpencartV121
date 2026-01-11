@@ -1,0 +1,25 @@
+02:26:00.612 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+02:26:00.635 [main] INFO  testCases.TC003_DataDrivenLoginTest - ----Test case Started----
+02:26:00.919 [main] INFO  testCases.TC003_DataDrivenLoginTest - Entering user credentials
+02:26:00.995 [main] INFO  testCases.TC003_DataDrivenLoginTest - Email id entered
+02:26:01.043 [main] INFO  testCases.TC003_DataDrivenLoginTest - Password entered
+02:26:01.098 [main] INFO  testCases.TC003_DataDrivenLoginTest - Clicked Login
+02:26:01.098 [main] INFO  testCases.TC003_DataDrivenLoginTest - Verifying account
+02:26:02.543 [main] INFO  testCases.TC003_DataDrivenLoginTest - ----Test case Started----
+02:26:02.812 [main] INFO  testCases.TC003_DataDrivenLoginTest - Entering user credentials
+02:26:02.871 [main] INFO  testCases.TC003_DataDrivenLoginTest - Email id entered
+02:26:02.920 [main] INFO  testCases.TC003_DataDrivenLoginTest - Password entered
+02:26:02.972 [main] INFO  testCases.TC003_DataDrivenLoginTest - Clicked Login
+02:26:02.972 [main] INFO  testCases.TC003_DataDrivenLoginTest - Verifying account
+02:26:13.555 [main] INFO  testCases.TC003_DataDrivenLoginTest - ----Test case Started----
+02:26:13.923 [main] INFO  testCases.TC003_DataDrivenLoginTest - Entering user credentials
+02:26:13.974 [main] INFO  testCases.TC003_DataDrivenLoginTest - Email id entered
+02:26:14.011 [main] INFO  testCases.TC003_DataDrivenLoginTest - Password entered
+02:26:14.612 [main] INFO  testCases.TC003_DataDrivenLoginTest - Clicked Login
+02:26:14.612 [main] INFO  testCases.TC003_DataDrivenLoginTest - Verifying account
+02:26:24.738 [main] INFO  testCases.TC003_DataDrivenLoginTest - ----Test case Started----
+02:26:25.067 [main] INFO  testCases.TC003_DataDrivenLoginTest - Entering user credentials
+02:26:25.119 [main] INFO  testCases.TC003_DataDrivenLoginTest - Email id entered
+02:26:25.160 [main] INFO  testCases.TC003_DataDrivenLoginTest - Password entered
+02:26:25.202 [main] INFO  testCases.TC003_DataDrivenLoginTest - Clicked Login
+02:26:25.202 [main] INFO  testCases.TC003_DataDrivenLoginTest - Verifying account
